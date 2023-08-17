@@ -6,10 +6,10 @@
 <p float = "left"> 
 
  ## MER
- <img src="https://github.com/levibergamascki/API-herois/blob/main/mer.png" width="200" />
+ <img src="https://github.com/levibergamascki/API-herois/blob/main/mer.png" width="600" />
 
  ## MODELO FÍSICO
- <img src="https://github.com/levibergamascki/API-herois/blob/main/fisico.png" width="200" />
+ <img src="https://github.com/levibergamascki/API-herois/blob/main/fisico.png" width="600" />
 
  ## DIAGRAMA DE CLASSES
-  <img src="https://github.com/levibergamascki/API-herois/blob/main/classe.png" width="200" />
+  <img src="https://github.com/levibergamascki/API-herois/blob/main/classe.png" width="600" />
