@@ -13,3 +13,13 @@
 
  ## DIAGRAMA DE CLASSES
   <img src="https://github.com/levibergamascki/API-herois/blob/main/classe.png" width="600" />
+
+
+## Observações para o uso da API
+  Devido ao fato de que não criamos um banco de dados online, você terá que alterar algumas informações no arquivo "appsettings.json", no arquivo você deverá trocar um dos valore da ConnectionString. Altere o Server para o nome do servidor que você utilizará em sua máquina (lembre-se que estamos usando SQL Server). Por final, você deverá criar o banco, para tal, apenas abra o console do gerenciador de pacotes nuget e digite: Update-Database.
+
+Observação quanto ao Script:
+Já que usamos Entity Framework, não criamos um banco de forma manual, logo o "script" seriam as migrations dentro do projeto, ao usar o comando Update-Database, ele roda as migrations e cria um banco de forma automática, seguindo as classes dentro da API.
+
+## Prints do funionamento:
+
