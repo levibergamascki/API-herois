@@ -23,3 +23,14 @@ Já que usamos Entity Framework, não criamos um banco de forma manual, logo o "
 
 ## Prints do funionamento:
 
+## INSERT
+<img src="https://github.com/levibergamascki/API-herois/blob/main/insert.png" width="600" />
+
+## SELECT
+<img src="https://github.com/levibergamascki/API-herois/blob/main/select.png" width="600" />
+
+## SELECT BY ID
+<img src="https://github.com/levibergamascki/API-herois/blob/main/SelectById.png" width="600" />
+
+## UPDATE
+<img src="https://github.com/levibergamascki/API-herois/blob/main/Update.png" width="600" />
